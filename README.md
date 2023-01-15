@@ -1,2 +1,3 @@
 # PvZTravelTime_Doc
-Documentation of PvZ 2: Travel Time
+Documentation of PvZ 2: Travel Time, still unfinished.
+Everything is placeholders...
